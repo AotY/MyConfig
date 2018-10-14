@@ -1,0 +1,41 @@
+{
+  "BTTPresetName" : "Default",
+  "BTTPresetUUID" : "31C64AC2-65A4-407D-892F-0465655891E5",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "error_no_bundle_identifier",
+      "BTTAppName" : "python",
+      "BTTAppProcessMatchMode" : 2,
+      "BTTAppProcessName" : "python",
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.readdle.PDFExpert-Mac",
+      "BTTAppName" : "PDF Expert",
+      "BTTAppProcessMatchMode" : 2,
+      "BTTAppProcessName" : "PDF Expert",
+      "BTTTriggers" : [
+
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}

@@ -1,0 +1,23 @@
+﻿[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 12/11/2017
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.cloudflare.com
+*.gitbooks.io
+*.awsstatic.com
+*.ggpht.com
+*.ggpht.com
+*.google.com.*
+*.google*.com
+*.wikipedia.org
+*.youtube.com.*
+*.youtube*.com
+*.android.com.*
+*.android*.com
+*.facebook.com.*
+*.facebook*.com
+*.twitter.com.*
+*.twitter*.com
+*.twimg.com
+*.twimg.com.*
